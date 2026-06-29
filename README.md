@@ -1,24 +1,16 @@
+<div align="left">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Kishoyian-Brian&color=6e7681&style=flat-square)
+
+</div>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=160&section=header&text=Brian%20Mwangi&fontSize=42&fontColor=A855F7&animation=twinkling&fontAlignY=36&desc=Fullstack%20Engineer&descAlignY=58&descSize=18" alt="Brian Mwangi" />
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1100&color=8b949e&center=true&vCenter=true&width=700&lines=Kenya+%F0%9F%87%B0%F0%9F%87%AA+%C2%B7+Open+to+opportunities;ASP.NET+Core+8+%C2%B7+Angular+%C2%B7+React+%C2%B7+PostgreSQL;Clean+architecture+%C2%B7+shipped+products+%C2%B7+automated+workflows)](https://git.io/typing-svg)
-
-<br>
-
-[![Fullstack](https://img.shields.io/badge/Role-Fullstack_Engineer-A855F7?style=flat-square&labelColor=161b22)](https://github.com/Kishoyian-Brian)
-[![Location](https://img.shields.io/badge/Location-Nairobi,Kenya-30363d?style=flat-square&labelColor=161b22)](https://github.com/Kishoyian-Brian)
-
-<br>
-
-*I design, build, and ship production systems — from API design and data models to deployed UIs.*
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kishoyian-Brian&color=6e7681&style=flat-square)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1100&color=8b949e&center=true&vCenter=true&width=700&lines=Kenya+%F0%9F%87%B0%F0%9F%87%AA+%C2%B7+Open+to+opportunities;ASP.NET+Core+8+%C2%B7+Angular+%C2%B7+React+%C2%B7+NestJS+%C2%B7+PostgreSQL;Clean+architecture+%C2%B7+shipped+products+%C2%B7+automated+workflows)](https://git.io/typing-svg)
 </div>
 
 <br>
